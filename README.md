@@ -1,6 +1,3 @@
-Here's the updated README with the project name **SmartCache AI**:  
-
-```markdown
 # SmartCache AI
 
 **An efficient, intelligent chatbot powered by Cache Augmented Generation (CAG) for fast and optimized LLM responses.**  
@@ -91,5 +88,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - [GitHub Repository](https://github.com/nepal-manjil32/smartcache-ai)  
 ```
-
-Let me know if you need further edits!
